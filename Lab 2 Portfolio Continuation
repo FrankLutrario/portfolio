@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Personal Portfolio </title>
+
+</head>
+<body style="background-color:rgb(218, 13, 13);">
+    <h1 style= "color:aqua"; >Frank James Lutrario</h1>
+    <h3 style= "color:aqua"; >NJIT FJL8 Hillier College of Architecture</h3>
+    <p style= "color:aqua";I am a first year studenty, currently majoring in architecture. <br>
+    My goal over the next five years here at NJIT is to expand my knowledge <br>
+in this field and ultimately become a practicing architect. Some hobbies <br>
+that interest me are basketball, golf, baseball, and ping pong. </p>
+<a href="https://library.njit.edu"> Visit NJIT Library</a>
+<img src="https://news.njit.edu/sites/news/files/styles/16by9-banner/public/eberhardthallRESIZED.jpg?itok=Z3xPhrHS" alt="">
+<div>
+    <table>
+        <tr>
+            <th> Education </th>
+            <th> Experience </th>
+            <th> Skills </th>
+        </tr>
+        <tr>
+            <td>Our Lady Star of the Sea</td>
+            <td> none </td>
+            <td> none </td>
+        </tr>
+        <tr>
+            <td> Monsignor Farrell High School </td>
+            <td>none</td>
+            <td>none </td>
+        </tr>
+        <tr>
+          <td> New Jersey Institute of Technology</td>  
+          <td>none</td>
+          <td>none</td>
+        </tr>
+    </table>
+</div>
+<div>
+  <form >
+    <label for="Username">Username</label>
+    <input type="text" placeholder="Username"> <br>
+    <label for="First Name">First Name</label>
+    <input type="text"placeholder="First Name"> <br>
+    <label for="Last Name">Last Name</label>
+    <input type="text" placeholder="Last Name" ><br>
+    <label for="Email">Email</label>
+    <input type="text" placeholder="Email"> <br>
+ 
+    <input type="checkbox">Math
+    <input type="checkbox">Architecture
+    <input type="checkbox">Computer Science 
+
+    <input type="radio"Name="course"> Math
+    <input type="radio"Name="course"> Architecture
+    <input type="radio"Name="course"> Computer Science 
+    <input type="submit">
+    
+  </form>
+</div>
+<div>
+    <ul>
+        <li> Math 107 </li>
+        <li>English 102</li>
+        <li> CS 104</li>
+    </ul>
+</div>
+
+
+</body>
+</html>
