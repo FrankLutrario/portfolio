@@ -1,0 +1,52 @@
+#headers{
+    background-color: lightgray;
+}
+
+table{
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    margin: 100px 100px 100px 100px;
+    border-color: black
+}
+th { 
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    padding: 10px;
+}
+td{
+    border: 2px;
+    border-style: solid;
+    color: black;
+    padding: 10px;
+}
+
+.img1{
+    height: 2.5in;
+    width: 2.5in;
+    border-width: 5px;
+    color: red;
+    border-style: dashed;
+    padding: 30px;
+}
+
+.img2{
+    height: 10%;
+    width: 15%;
+    border-width: 5px;
+    color: red;
+    border-style: dashed;
+    padding: 30px;
+}
+
+
+.img3{
+    height: 150px;
+    width: 150px;
+    border-width: 5px;
+    color: red;
+    border-style: dashed;
+    padding: 30px;
+    
+}
